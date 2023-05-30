@@ -12,7 +12,7 @@
       "latest-version": "1.0.0",
       "download-url": "https://hx24-media-prod.oss-cn-hongkong.aliyuncs.com/app/download/MarsBit_V3.8.5.apk",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
+      "mandatory": false
     },
     "linux": {
       "open-url": "",
